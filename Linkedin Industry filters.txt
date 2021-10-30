@@ -10,10 +10,10 @@ Research
 Filter by Research
 
 Biotechnology
-Filter by Biotechnology
+by Biotechnology
 
 Renewables & Environment
-Filter by Renewables & Environment
+ by Renewables & Environment
 
 Nonprofit Organization Management
 Filter by Nonprofit Organization Management
@@ -49,7 +49,7 @@ Maritime
 Filter by Maritime
 
 Mental Health Care
-Filter by Mental Health Care
+by Mental Health Care
 
 Arts and Crafts
 Filter by Arts and Crafts
